@@ -1,7 +1,8 @@
 # CSCI 522 Game Engine Development — Navigation & Obstacle Avoidance System
 
 # Demo Video
-https://youtu.be/ni2wydib5-k
+![ezgif com-crop](https://github.com/user-attachments/assets/91b9675f-5b0b-4a0a-a8d5-5ff83bd3e75c)
+
 
 # What's Implemented
 
